@@ -1,0 +1,24 @@
+Test plan:created byn Test Lead/Senior Tester
+
+1)Test Item:(application name)
+
+2)softwre risk issues:security,performance,Testing at the browser(3rd party like browsers shoot)platform,browser,configuration
+
+Scope:
+3)Features to be Tested:Register User,Customer,Admin Functions,Manager and member function
+
+4)Features Not be Tested :New Version not to be tested (That is not part of the scope)
+
+5)Approach:White box and Black box (It contains code and UI)
+
+6)Test Deliverables:source code,Test Scenario,Test plan,Test Case,Test Execution Report,Test Report,Defeat Report.
+
+7)Item pass/Failcriteria:if I find 5 minor bugs,1 major bug,with No Criteria/Show stopper in this case I consider the application as pass criteria.
+
+8)Suspension & Resumption Criteria:Show stoppers in application/Non-Availability of resource/When this is resolved.
+
+9)Responsibility:Project manager,Test Lead,Tester,Customers.
+
+10)Staffing and Training Need:how many tester are required/which all the area you need training.
+
+11)Schedule:Time to complete the work(2 weeks)
